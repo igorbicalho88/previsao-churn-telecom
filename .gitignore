@@ -1,0 +1,9 @@
+# ambiente e cache
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# dados baixados (o notebook 01 baixa de novo direto do GitHub da IBM)
+data/
